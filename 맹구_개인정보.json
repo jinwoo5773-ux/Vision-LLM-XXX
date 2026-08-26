@@ -1,10 +1,10 @@
 {
-    "name": "맹구",
-    "age": 21,
-    "major": "컴퓨터공학",
-    "gpa": 3.8,
+    "name": "민배",
+    "age": 25, look like 35
+    "major": "소재디자인공학",
+    "gpa": 4.5,
     "languages": [
-        "Python",
+        "LOL",
         "C++"
     ]
 }
