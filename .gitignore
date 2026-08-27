@@ -1,0 +1,5 @@
+.env
+.venv/*
+src/models/*
+src/datasets/*
+
