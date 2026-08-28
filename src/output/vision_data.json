@@ -1,0 +1,76 @@
+{
+    "image_width": 942,
+    "image_height": 488,
+    "objects": [
+        {
+            "class": "car",
+            "confidence": 0.92,
+            "bbox": {
+                "x1": 127,
+                "y1": 289,
+                "x2": 347,
+                "y2": 451
+            }
+        },
+        {
+            "class": "car",
+            "confidence": 0.89,
+            "bbox": {
+                "x1": 524,
+                "y1": 298,
+                "x2": 636,
+                "y2": 379
+            }
+        },
+        {
+            "class": "person",
+            "confidence": 0.802,
+            "bbox": {
+                "x1": 833,
+                "y1": 274,
+                "x2": 876,
+                "y2": 403
+            }
+        },
+        {
+            "class": "potted plant",
+            "confidence": 0.462,
+            "bbox": {
+                "x1": 721,
+                "y1": 310,
+                "x2": 750,
+                "y2": 361
+            }
+        },
+        {
+            "class": "car",
+            "confidence": 0.378,
+            "bbox": {
+                "x1": 415,
+                "y1": 291,
+                "x2": 434,
+                "y2": 307
+            }
+        },
+        {
+            "class": "car",
+            "confidence": 0.367,
+            "bbox": {
+                "x1": 431,
+                "y1": 291,
+                "x2": 446,
+                "y2": 306
+            }
+        },
+        {
+            "class": "person",
+            "confidence": 0.294,
+            "bbox": {
+                "x1": 42,
+                "y1": 302,
+                "x2": 78,
+                "y2": 371
+            }
+        }
+    ]
+}
